@@ -8,27 +8,17 @@ It's the anchor point used through all of our feedback and promotion cycles.
 
 This is a living set of documents, maintained by the very people it affects.
 
-## Guiding Concepts
+## Roles
 
-- Craft
-  
-  The technical skills and domain knowledge expected of the role.
+[Engineering Roles](Engineering.md)
 
-- Delivery
+[Cloud Engineering Roles](Cloud.md)
 
-  How tasks are prioritised, setting realistic goals and predicting bottlenecks.
+[QA/QE Roles](QA-QE.md)
 
-- Culture
+## Career Ladder
 
-  How we collaborate and communicate both within a team and cross-teams. This also relates to how an individual contributes to broader community.
-
-- Leadership
-
-  This applies at all levels of the career ladder. It may take the form of taking the initiative to find mentors, being a mentor, taking ownership of work done, studying best practices or showing autonomy and personal growth. At higher levels, it involves helping to improve and measure the effectiveness of the steam.
-
-- Impact
-
-  The business acumen and strategic thinking that helps us move beyond where we are and then on towards or even beyond "best". It involves understanding more that the basic utility of the procedures and processes we use or we offer our customers.
+![Ladder Diagram](ladder.jpg)
 
 ## Contributions
 
@@ -36,9 +26,15 @@ Staff can suggest changes by raising a pull request against this repository. For
 
 ## Thanks
 
-This repository and it's contents are heavily inspired by the [Readify career ladder](https://github.com/Readify/madskillz).
+This repository and it's contents are **heavily** inspired by the [Readify career ladder](https://github.com/Readify/madskillz).
 
 Inspiration is also taken from:
 
 - https://coderpad.io/blog/engineering-management/why-you-need-an-engineering-career-ladder/
 - https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit
+- https://etsy.github.io/Etsy-Engineering-Career-Ladder/
+- https://blog.polleverywhere.com/build-engineering-career-ladder/
+- https://engineering.atspotify.com/2016/02/spotify-technology-career-steps/
+- https://about.gitlab.com/handbook/engineering/career-development/
+- https://engineering.mercari.com/en/ladder/
+- https://medium.com/tuitech/we-built-a-dual-track-engineering-career-ladder-heres-why-cc41c72e30ed

@@ -1,5 +1,17 @@
 # Engineering Roles
 
+Relevant experience:
+
+- Graduate Engineer: Usually less than 2 years of relevant professional experience.
+- Engineer: Usually at least 2-5 years of relevant professional experience.
+- Senior Engineer: Usually at least 5-8 years of relevant professional experience.
+- Lead Engineer: Usually at least 8-12 years of relevant professional experience.
+- Principal Engineer: Usually at least 8-12 years of relevant professional experience.
+- Principal Architect: Usually at least 12-15+ years of relevant professional experience.
+- Engineering Manager: Usually at least 12-15+ years of relevant professional experience.
+
+---
+
 ## Graduate Engineer
 > I am a committed student of the values and beliefs of Loan Market.
 
@@ -27,13 +39,15 @@
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - My contributions to team discussions are net-positive, informative and helpful.
 
+---
+
 ## Engineer
 > I am a valuable, enthusiastic and net-positive member of the team.
 
 #### I write high quality code quickly and ship it to production.
 
 - I write code with testability, readability, edge cases and errors in mind.
-- I own my work all the way to production. I understand how to release a change behind a feature flag.
+- I own my work all the way to production. I understand how to release a change behind a [feature flag](https://en.wikipedia.org/wiki/Feature_toggle).
 - I am learning how to interpret and clarify technical and business requirements.
 - I am learning to tame complexity when building software products.
 - I am learning how to qualify and reduce technical debt.
@@ -62,6 +76,8 @@
 - My contributions to team discussions are net-positive, informative and helpful.
 - I am always prepared to be a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 
+---
+
 ## Senior Engineer
 > I am a highly sought-after member of the team with a proven record of shipping high-quality code to production.
 
@@ -70,7 +86,7 @@
 - I consistently write code with testability, readability, edge cases and errors in mind.
 - I promote behaviours that allow the team to release, monitor and debug a feature in production.
 - I can interpret and clarify technical and business requirements.
-- I am comfortable creating a baseline product from scratch for others to build on.
+- I am comfortable creating a baseline feature or repository from scratch for others to build on.
 - I am proficient with my tools and the core building blocks used by our team.
 - I know how to make pragmatic decisions in order to ship a feature.
 - I am comfortable standing up a build and delivery pipeline.
@@ -88,7 +104,7 @@
 #### I am focussed on the success of the team, without the need to boost my ego.
 
 - I add value to my team by being a trusted, proactive supporter of my team and its leadership, and by delivering high quality work with a minimum of fuss.
-- I seek to understand real needs of our customer's and am comfortable building requirements and technical recommendations off those.
+- I seek to understand the real needs of our customer's and am comfortable building requirements and technical recommendations off those.
 - I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle all problems regardless of difficulty, and I support my team by solving them in a pragmatic way.
@@ -103,15 +119,21 @@
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
+---
+
 ## Principal Engineer
 > I am a well-rounded developer, architect, problem solver and leader of people. I aspire to have engineering and behavioural excellence.
+>
+> 🔀 This role starts the Domain Expert track. The sub-branches of Principal Engineer are:
+>
+> - Architect: Engineering and software architecture excellence
+> - Business Analysis: Business solution design and strategy
 
 #### I am trusted to lead a team and take an idea all the way to production with little supervision.
 
 - I am emerging as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
-- I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I am proficient at leading software projects using agreed practices.
 - I can confidently and charismatically pitch ideas and influence my teams decisions.
@@ -121,36 +143,41 @@
 
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first one to take responsibility for reducing waste in our process.
-- I am comfortable performing business analysis work. I help Product and Engineering Managers to clarify their product vision and turn it into a roadmap and then pitches, collaborating with them to reach a shared understanding of what should and can be built.
+- I am comfortable performing business analysis work. I help Product and Engineering Managers to clarify their vision and help turn it into a roadmap and then pitches, collaborating with them to reach a shared understanding of what should and can be built.
 - I recognise problems with my team and proactively engage with relevant leaders as needed to prevent or resolve them quickly.
+
+### I am adaptable
+
+- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
+- I can adapt to a given situation and can learn and implement new technologies with very short notice.
 
 #### I am emerging as a thought leader in technology and architecture.
 
 - I have a wide understanding of software development technology and practices, backed by extensive practical experience.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, performance, concurrency and maintainability into consideration.
-- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
-- I am comfortable performing business analysis work. I help Product and Engineering Managers to clarify their product vision and turn it into a roadmap and then pitches, collaborating with them to reach a shared understanding of what should and can be built.
 - I use my skills, speed and knowledge to help my team be very productive.
 
-#### I am significantly investing back into Loan Market.
+#### I am investing back into Loan Market.
 
+- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the business.
 
+---
+
 ## Lead Engineer
 > I am a well-rounded developer, architect, problem solver and leader of people. I am trusted to lead teams to deliver a small number of pitches from inception to their successful completion.
+>
+> 🔀 This role is the start of the Management track.
 
 #### I am becoming a respected and trusted leader of people.
 
 - I am emerging as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
-- I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
-- I am comfortable with building a product vision with a Product Manager and Engineering Manager based on their business needs, regardless of whether this involves technology or otherwise.
-- I am proficient at leading software projects using agreed practices.
 - I can confidently and charismatically pitch ideas and influence my teams decisions.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
@@ -160,17 +187,22 @@
 - I learning to reliably deliver successful projects by applying good practices when leading teams.
 - I am focussed on helping my peers grow, sharing what I have learned and encouraging others to do the same.
 - I facilitate ongoing, net-positive and productive communication in the team.
+- I participate and have a strong voice in the hiring of new team members.
 
 #### I am emerging as a driver for technical and business opportunities.
 
 - I am looking for new opportunities and thinking beyond what we are creating today.
 - I am comfortable with building a product vision with a Product Manager and Engineering Manager based on their business needs, regardless of whether this involves technology or otherwise.
+- I know we need to be able to measure performance and progress in the team and in the adoption of our software. I am constantly looking for ways to understand what we have achieved.
 
 #### I am investing back into Loan Market.
 
+- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the business.
+
+---
 
 ## Principal Architect
 > I epitomise and embody engineering and behavioural excellence that Loan Market aspires to. I have a wealth of experience and readily share it with all teams, both technical and non-technical.
@@ -190,8 +222,17 @@
 - I know how to identify potential issues and will take action to head them off before they eventuate, whether they be technical, requirements or people based.
 - I am confident handling situations where we have made mistakes and working towards outcomes that are acceptable to the team and our customers.
 
+### I am someone who can talk through technical problems and facilitate a great result
+
+- I can communicate with other leads and architects at a high level but also delve as deep as the problem requires.
+- I can position the pros and cons of different solutions in terms of business costs and benefits rather than technical purity.
+- I understand that technical solutions are not always the best solution to a problem and that we are a solution provider not a technology provider.
+- I ensure the right people are at the table when discussing potential solutions to ensure collective consideration, adoption, and ownership of solutions.
+
 #### My investment back into Loan Market is a significant part of our success.
 
+- I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
+- I identify and build support for technical initiatives that address Loan Markets most important needs.
 - I take time to reflect on our identity, our people and our culture, and the way in which we work. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
 - I recognise that the value I bring to the company is different to the broader engineering team and that the interactions I have with people is critical to our collective success.
 
@@ -199,12 +240,20 @@
 
 - I am constantly looking for opportunities and ways to impart my knowledge to others.
 - I may be a highly regarded engineer but I don't know everything, even when my ego wants to pretend I do. I am comfortable showing that I still need to learn and will visibly collaborate, seek help, get advice, and undertake mentoring as needed.
-- I am an information sponge, always staying abreast of advances in software development ecosystem.
+- I am an information sponge, always staying abreast of advances in the software development ecosystem.
 - I know that my knowledge will soon be obsolete so I'm actively investing in other areas or technologies into which I can grow.
 - I am proficient at delivering software products using good practices.
 
+---
+
 ## Engineering Manager
 > I am trusted to autonomously lead people through any engagement with a proven record of delivering pitches from inception to their successful completion.
+>
+> 🔀 The sub-branches of Engineering Manager are:
+> 
+> - Architect: Engineering and software architecture excellence.
+> - Business Analysis: Business solution design and strategy.
+> - Leadership: Problem solving and operational excellence.
 
 #### I am a deeply respected leader of people.
 
@@ -215,12 +264,12 @@
 - I know when and how to apply different coaching and mentoring techniques, understanding the maturity level of those I'm helping.
 - I am able to provide perspective for those I'm serving by reminding them of the big picture when they get stuck in the details and day to day of solving problems.
 
-#### I know the pressures of being an executive.
+#### I know the pressures of being a key leader.
 
 - I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
 - I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
 - I understand the bigger picture of how software development, security and other business departments all interrelate and influence the success of a business.
-- I know how to adjust my communications style based on my audience, from service desk to developer to engineer to sales and marketing to C-level executives and business owners.
+- I know how to adjust my communications style based on my audience, from support to engineer to sales and marketing to C-level executives and business owners.
 - I know the impact of internal politics in organisations and how it can impact decision making processes. I work to minimise any such activities and proactively display a culture or ownership and inclusion. 
 - I know what is required to bring about organisational change, and when enough trust has been established to broach such topics with others.
 
@@ -229,8 +278,10 @@
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
 - I am an outspoken advocate of my team. They can trust me to be the first line of defence.
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our peers and customers.
-- I actively track the progress of our team, keeping the goals of the project and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
+- I actively track the progress of our team, keeping the goals of our projects and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
 - I have a track record of delivering successful projects by applying good practices when leading teams.
+- I don't mind making the coffee or picking up the pizza for everyone in the team.
+- I understand culture is held in our people. I am proactive in hiring for good culture fit and attitude as much as skills.
 
 #### I am a driver for technical and business opportunities.
 
@@ -240,7 +291,8 @@
 
 #### I am investing back into the business.
 
-- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
+- I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
 - I am helping steer the public and private conversations within the business towards positive and productive outcomes.
 - I represent the interest of my team and the technology group as a while to the wider business.
 - I am involved in initiatives beyond developing software.
+- I take time to reflect on our identity, our people and our culture, and the way in which we work. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
