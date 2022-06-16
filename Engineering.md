@@ -192,7 +192,7 @@ Relevant experience:
 #### I am emerging as a driver for technical and business opportunities.
 
 - I am looking for new opportunities and thinking beyond what we are creating today.
-- I am comfortable with building a product vision with a Product Manager and Engineering Manager based on their business needs, regardless of whether this involves technology or otherwise.
+- I am comfortable with building a product vision with a Product Manager and Engineering Manager based on the business needs, regardless of whether this involves technology or otherwise.
 - I know we need to be able to measure performance and progress in the team and in the adoption of our software. I am constantly looking for ways to understand what we have achieved.
 
 #### I am investing back into Loan Market.
