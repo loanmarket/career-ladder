@@ -193,7 +193,7 @@ Relevant experience:
 
 - I am looking for new opportunities and thinking beyond what we are creating today.
 - I am comfortable with building a product vision with a Product Manager and Engineering Manager based on their business needs, regardless of whether this involves technology or otherwise.
-- I know we need to be able to measure performance and progress in the team and in the adoption of our software. I am constantly looking for ways to understand what we have achieved.
+- I know we need to be able to measure performance and progress within the team. We also need to measure the performance and progress of the software we produce. I am constantly looking for ways to understand what we have achieved.
 
 #### I am investing back into Loan Market.
 
