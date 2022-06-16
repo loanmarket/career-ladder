@@ -184,7 +184,7 @@ Relevant experience:
 #### I am learning to be a servant leader for my team.
 
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
-- I learning to reliably deliver successful projects by applying good practices when leading teams.
+- I am learning to reliably deliver successful projects by applying good practices when leading teams.
 - I am focussed on helping my peers grow, sharing what I have learned and encouraging others to do the same.
 - I facilitate ongoing, net-positive and productive communication in the team.
 - I participate and have a strong voice in the hiring of new team members.
