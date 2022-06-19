@@ -1,65 +1,85 @@
 ```mermaid
 flowchart BT
-  subgraph report_em [ ]
-    direction BT
+  subgraph band_td [ ]
+    direction LR
+    
+    td[Technical Director]
 
-    pe[Principal Engineer]
-    le[Lead Engineer]
-    se[Senior Engineer]
-    e[Engineer]
-    ge[Graduate Engineer]
+    subgraph legend [Where]
+      direction LR
 
-    ge -.-> e
-    e -.-> se
+      A -->|Reports To| C
+      B -.->|Career Pathway| C
+    end  
+  end
 
-    subgraph stream_lead [ ]
+  subgraph band_mgmt [ ]
+    direction LR
+
+    pa[Principal Architect]
+    em[Engineering Manager]
+    cem[Cloud Engineering Manager]
+    qam[QA/QE Manager]
+  end
+
+  subgraph band_teams [ ]
+    direction LR
+
+    subgraph report_em [ ]
       direction BT
 
-      se -.-> pe
-      se -.-> le
+      pe[Principal Engineer]
+      le[Lead Engineer]
+      se[Senior Engineer]
+      e[Engineer]
+      ge[Graduate Engineer]
+
+      ge -.-> e
+      e -.-> se
+
+      subgraph stream_lead [ ]
+        direction BT
+
+        se -.-> pe
+        se -.-> le
+      end
     end
-  end
 
-  subgraph report_cem [ ]
-    direction BT
+    subgraph report_cem [ ]
+      direction BT
 
-    pce[Principal Cloud Engineer]
-    lce[Lead Cloud Engineer]
-    sce[Senior Cloud Engineer]
-    ce[Cloud Engineer]
-    gce[Graduate Cloud Engineer]
+      pce[Principal Cloud Engineer]
+      lce[Lead Cloud Engineer]
+      sce[Senior Cloud Engineer]
+      ce[Cloud Engineer]
+      gce[Graduate Cloud Engineer]
 
-    gce -.-> ce
-    ce -.-> sce
-    sce -.-> pce
-    sce -.-> lce
-  end
+      gce -.-> ce
+      ce -.-> sce
+      sce -.-> pce
+      sce -.-> lce
+    end
 
-  subgraph report_qam [ ]
-    direction BT
+    subgraph report_qam [ ]
+      direction BT
 
-    lqe[Lead QA/QE Engineer]
-    pae[Principal Automation Engineer]
-    sqe[Senior QA/QE Engineer]
-    qe[QA/QE Engineer]
-    gqe[Graduate QA/QE Engineer]
+      lqe[Lead QA/QE Engineer]
+      pae[Principal Automation Engineer]
+      sqe[Senior QA/QE Engineer]
+      qe[QA/QE Engineer]
+      gqe[Graduate QA/QE Engineer]
 
-    gqe -.-> qe
-    qe -.-> sqe
-    sqe -.-> pae
-    sqe -.-> lqe
+      gqe -.-> qe
+      qe -.-> sqe
+      sqe -.-> pae
+      sqe -.-> lqe
+    end
   end
 
   pae -.-> report_cem
   le -.-> em
   lce -.-> cem
   lqe -.-> qam
-
-  td[Technical Director]
-  pa[Principal Architect]
-  em[Engineering Manager]
-  cem[Cloud Engineering Manager]
-  qam[QA/QE Manager]
 
   report_em --> em
   report_cem --> cem
@@ -72,10 +92,7 @@ flowchart BT
   cem --> td
   qam --> td
 
-  subgraph legend [Where]
-    direction LR
-
-    A -->|Reports To| C
-    B -.->|Career Pathway| C
-  end  
+  classDef band fill:transparent,stroke:none;
+  class band_td,band_mgmt,band_teams band;
+  style legend fill:transparent,stroke-dasharray:5;
 ```
