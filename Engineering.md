@@ -199,7 +199,6 @@ Relevant experience:
 - I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
-- I am known as someone who looks for opportunities to invest into the business.
 
 ---
 
