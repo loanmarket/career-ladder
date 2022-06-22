@@ -90,7 +90,7 @@ Relevant experience:
 - I am proficient with my tools and the core building blocks used by our team.
 - I know how to make pragmatic decisions in order to ship a feature.
 - I am comfortable standing up a build and delivery pipeline.
-- I am able to pursuade people on the pros/cons of a given technical design approach.
+- I am able to persuade people on the pros/cons of a given technical design approach.
 
 #### I am a technical mentor.
 
