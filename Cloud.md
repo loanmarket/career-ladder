@@ -15,11 +15,10 @@ Relevant experience:
 
 - I am learning how to segment tasks into deliverable units of work.
 - I am learning about security concerns related to cloud computing and actively seeking how to mitigate any risks.
-- I am competent with the tools and core building blocks used by our team.
+- I am learning to be competent with the tools and core building blocks used by our team.
 - I am learning how to write scripts to support the deployment of solutions provided by the development team
 - I am learning the importance of solution availablity and what this means to our end customers.
 - I am learning how to architect quality solutions using available cloud resources.
-
 
 #### I show great enthusiasm and initiative.
 
@@ -27,6 +26,7 @@ Relevant experience:
 - I am a good citizen in the developer community, following the processes and patterns created by my peers.
 - I am not afraid to provide my thoughts and insights to the team.
 - I am professional and friendly to all my team members and fellow employees.
+- I understand the importance of system uptime and actively want to increase our customers satisfaction with the services we provide.
 
 #### I am an egoless, team oriented developer.
 
