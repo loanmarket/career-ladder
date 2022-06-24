@@ -48,7 +48,7 @@ Relevant experience:
 - I am able to design cloud solutions based on the requirements.
 - I am able to code and integrate quality solutions in the cloud.
 - I am able to support and suggest improvements for solutions to ensure they meet business requirements and are resilient.
-- I understand and develop solutions that adere compliance and security standards.
+- I understand and develop solutions that adhere compliance and security standards.
 - I know how to stand up a build and delivery pipeline.
 
 #### I am recognised by my desire to learn and my motivation to improve.
