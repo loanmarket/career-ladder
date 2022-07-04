@@ -1,17 +1,5 @@
 # Engineering Roles
 
-Relevant experience:
-
-- Graduate Engineer: Usually less than 2 years of relevant professional experience.
-- Engineer: Usually at least 2-5 years of relevant professional experience.
-- Senior Engineer: Usually at least 5-8 years of relevant professional experience.
-- Lead Engineer: Usually at least 8-12 years of relevant professional experience.
-- Principal Engineer: Usually at least 8-12 years of relevant professional experience.
-- Principal Architect: Usually at least 12-15+ years of relevant professional experience.
-- Engineering Manager: Usually at least 12-15+ years of relevant professional experience.
-
----
-
 ## Graduate Engineer
 > I am a committed student of the values and beliefs of Loan Market.
 
@@ -150,6 +138,7 @@ Relevant experience:
 
 - I realise that there are many tools that can solve a given problem and each have their own pros and cons.
 - I can adapt to a given situation and can learn and implement new technologies with very short notice.
+- I know that my knowledge will soon be obsolete so I'm actively investing in other areas or technologies into which I can grow.
 
 #### I am emerging as a thought leader in technology and architecture.
 
@@ -163,6 +152,7 @@ Relevant experience:
 - I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+- I am involved in initiatives beyond developing software.
 
 ---
 
@@ -266,7 +256,7 @@ Relevant experience:
 
 - I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
 - I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
-- I understand the bigger picture of how software development, security and other business departments all interrelate and influence the success of a business.
+- I understand the bigger picture of how software development, compliance, marketing and other business departments all interrelate and influence the success of a business.
 - I know how to adjust my communications style based on my audience, from support to engineer to sales and marketing to C-level executives and business owners.
 - I know the impact of internal politics in organisations and how it can alter decision making processes. I work to minimise any such activities and proactively display a culture of ownership and inclusion. 
 - I know what is required to bring about organisational change, and when enough trust has been established to broach such topics with others.
@@ -287,10 +277,10 @@ Relevant experience:
 - I don't rely on the Product Manager to define the roadmap and set objectives. I am constantly asking questions and looking for ways to improve our intentions.
 - I listen to the team but advocate for more. I look to change negative attitudes into positive plans of action.
 
-#### I am investing back into the business.
+#### I am investing back into Loan Market.
 
 - I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
 - I am helping steer the public and private conversations within the business towards positive and productive outcomes.
-- I represent the interest of my team and the technology group as a while to the wider business.
+- I represent the interest of my team and the technology group as a whole to the wider business.
 - I am involved in initiatives beyond developing software.
 - I take time to reflect on our identity, our people and our culture, and the way in which we work. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.

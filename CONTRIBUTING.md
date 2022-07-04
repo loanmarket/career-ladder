@@ -2,7 +2,7 @@
 
 Amendments to this repository are open to all staff in Loan Market. Normal practice is to submit a Pull Request with your suggested changes and have them reviewed by your peers.
 
-The characteristics listed should be representative of the role but do not exhaustive. Particularly as team members becomes more senior, underlying experience can become assumed. The tone of each characteristic should reflect an individual who has obtained the proficiency expected that corresponds to the position. When combined together the characteristics should be both inspirational and achievable. However,it is unlikely that a team member has achieved the desired proficiency in all characteristics.
+The characteristics listed should be representative of the role but do not need to be exhaustive; particularly as team members becomes more senior, underlying experience can become assumed. The tone of each characteristic should reflect an individual who has obtained the proficiency expected that corresponds to the position. When combined together the characteristics should be **inspirational** as it is unlikely that a team member has achieved the desired proficiency in all characteristics.
 
 ## Guiding Concepts
 

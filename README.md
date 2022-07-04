@@ -2,11 +2,9 @@
 
 This repository describes the technical roles within the group.
 
-It seeks to describe some **defining characteristics** about each role, and provide some concrete **examples** along the way.
+It seeks to describe some **defining characteristics** about each role, and provide some concrete **examples** along the way. Each example should be both **attainable** and **reasonable** to expect of a team member in that role, but overall the collection should be treated as **aspirational**. It is most important that an individual exhibits the broad **attitude** and **behaviour** described.
 
-It's the anchor point used through all of our feedback and promotion cycles.
-
-This is a living set of documents, maintained by the very people it affects.
+It's the anchor point used through all of our feedback and promotion cycles. This is a living set of documents, maintained by the very people it affects.
 
 ## Roles
 
