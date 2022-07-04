@@ -134,7 +134,7 @@
 - I am comfortable performing business analysis work. I help Product and Engineering Managers to clarify their vision and help turn it into a roadmap and then pitches, collaborating with them to reach a shared understanding of what should and can be built.
 - I recognise problems with my team and proactively engage with relevant leaders as needed to prevent or resolve them quickly.
 
-### I am adaptable
+#### I am adaptable
 
 - I realise that there are many tools that can solve a given problem and each have their own pros and cons.
 - I can adapt to a given situation and can learn and implement new technologies with very short notice.
@@ -210,7 +210,7 @@
 - I know how to identify potential issues and will take action to head them off before they eventuate, whether they be technical, requirements or people based.
 - I am confident handling situations where we have made mistakes and working towards outcomes that are acceptable to the team and our customers.
 
-### I am someone who can talk through technical problems and facilitate a great result
+#### I am someone who can talk through technical problems and facilitate a great result
 
 - I can communicate with other leads and architects at a high level but also delve as deep as the problem requires.
 - I can position the pros and cons of different solutions in terms of business costs and benefits rather than technical purity.
