@@ -143,7 +143,7 @@
 
 #### I am emerging as a thought leader in technology and architecture.
 
-- I have a wide understanding of software development technology and practices, backed by extensive practical experience.
+- I have a wide understanding of cloud development technology and practices, backed by extensive practical experience.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, performance, concurrency and maintainability into consideration.
 - I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
 - I use my skills, speed and knowledge to help my team be very productive.
