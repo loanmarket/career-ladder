@@ -72,7 +72,7 @@
 #### I am trusted to develop a solution from an initial idea through to production.
 
 - I consistently write cloud solutions with scalability, availabilty and cost in mind.
-- I have broad knowledge of available cloud resources, and know how where each is appropriate as part of a broader solution
+- I have a broad knowledge of available cloud resources, and know where each is appropriate as part of a broader solution.
 - I understand how to interpret metrics and use these to resolve problems or as part of designing a solution.
 - I am comfortable in providing development teams with advice on what cloud resources they should include in their architecture.
 - I am proficient with my tools and the core building blocks used by our team.
