@@ -155,7 +155,7 @@
 
 #### I am a technical mentor
 
-- I can effectively coach QA/QE engineers to understand and adopt best practices in test automation.
+- I can effectively coach other engineers to understand and adopt best practices in test automation.
 - I support my peers, through workshops, documentation, and pair programming.
 - People value my ideas and knowledge. They come to me seeking solutions.
 
