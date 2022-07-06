@@ -73,7 +73,7 @@
 
 - I consistently write cloud solutions with scalability, availabilty and cost in mind.
 - I have a broad knowledge of available cloud resources, and know where each is appropriate as part of a broader solution.
-- I understand how to interpret metrics and use these to resolve problems or as part of designing a solution.
+- I understand how to define, gather and interpret metrics to resolve problems or as part of designing a solution.
 - I am comfortable in providing development teams with advice on what cloud resources they should include in their architecture.
 - I am proficient with my tools and the core building blocks used by our team.
 - I know how to make pragmatic decisions in order to ship a feature.
@@ -113,10 +113,7 @@
 ## Principal Cloud Engineer
 > I am a well-rounded cloud developer, architect, problem solver and leader of people. I aspire to have engineering and behavioural excellence.
 >
-> 🔀 This role starts the Domain Expert track. The sub-branches of Principal Cloud Engineer are:
->
-> - Architect: Engineering and software architecture excellence
-> - Business Analysis: Business solution design and strategy
+> 🔀 This role starts the Domain Expert track. 
 
 #### I am trusted to lead a team and take an idea all the way to production with little supervision.
 
@@ -132,7 +129,7 @@
 
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first one to take responsibility for reducing waste in our process.
-- I am comfortable performing business analysis work. I help Product and Engineering Managers to clarify their vision and help turn it into a roadmap and then pitches, collaborating with them to reach a shared understanding of what should and can be built.
+- I help Product and Engineering Managers to clarify their vision and help turn it into a roadmap and then pitches, collaborating with them to reach a shared understanding of what should and can be built.
 - I recognise problems with my team and proactively engage with relevant leaders as needed to prevent or resolve them quickly.
 
 ### I am adaptable
@@ -181,9 +178,9 @@
 
 #### I am emerging as a driver for technical and business opportunities.
 
-- I am looking for new opportunities and thinking beyond what we are creating today.
+- I am looking for new technologies and practices that maybe able to assist our team to acheive their goals and improve how we work.
 - I am comfortable with building a product vision with an Engineering Manager based on the business needs, regardless of whether this involves technology or otherwise.
-- I know we need to be able to measure performance and progress in the team and in the adoption of our software. I am constantly looking for ways to understand what we have achieved.
+- I know we need to be able to measure performance and progress in the team. I am constantly looking for ways to understand what we have achieved.
 
 #### I am investing back into Loan Market.
 
