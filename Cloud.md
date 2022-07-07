@@ -8,14 +8,14 @@
 - I am learning about security concerns related to cloud computing and actively seeking how to mitigate any risks.
 - I am learning to be competent with the tools and core building blocks used by our team.
 - I am learning how to write scripts to support the deployment of solutions provided by the development team
-- I am learning the importance of solution availablity and what this means to our end customers.
+- I am learning the importance of solution availability and what this means to our end customers.
 - I am learning how to architect quality solutions using available cloud resources.
 
 #### I show great enthusiasm and initiative.
 
 - I am self-directed in my learning of technologies that interest me and seek guidance on technologies I should learn to progress my career.
 - I am a good citizen in the developer community, following the processes and patterns created by my peers.
-- I am not afraid to provide my thoughts and insights to the team.
+- I am not afraid to provide my thoughts and insights to my team.
 - I am professional and friendly to all my team members and fellow employees.
 - I understand the importance of system uptime and actively want to increase our customers satisfaction with the services we provide.
 
@@ -24,7 +24,7 @@
 - Other team members genuinely want me on their team.
 - I am ready to receive feedback from my peers about how I can improve.
 - I am learning I cannot go dark. My team needs to know what I am doing and when I am stuck.
-- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
+- Even when I disagree with something I continue to work enthusiastically, learning from the others in my team.
 - My contributions to team discussions are net-positive, informative and helpful.
 
 ---
@@ -35,7 +35,7 @@
 
 #### I am able to develop quality, high quality cloud solutions to support our customers.
 
-- I am able to gather requirements from stake holders independantly.
+- I am able to gather requirements from stake holders independently.
 - I am able to design cloud solutions based on the requirements.
 - I am able to code and integrate quality solutions in the cloud.
 - I am able to support and suggest improvements for solutions to ensure they meet business requirements and are resilient.
@@ -57,7 +57,7 @@
 - I am learning to give respectful feedback to all my peers, including my leaders.
 - I avoid going dark and I know when to call out for help.
 - I communicate professionally and keep stake holders engaged at all times.
-- I am well aware of all processes of the team and diligently follow them.
+- I am well aware of all processes of my team and diligently follow them.
 - Every venture has mundane tasks and I work happily and diligently through them.
 - My contributions to team discussions are net-positive, informative and helpful.
 - I keep my cool during high pressure situations and can still think logically when I know our customers are effected.
@@ -83,9 +83,9 @@
 #### I am a technical mentor.
 
 - People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
-- I am fuelling the team's desire to learn, perhaps by mentoring, running sessions, sharing useful articles.
+- I am fuelling my team's desire to learn, perhaps by mentoring, running sessions, sharing useful articles.
 - I use code reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
-- I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and the team.
+- I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and my team.
 - I can effectively coach people and pass on my knowledge.
 - I am a confident and proficient teacher of my craft.
 
@@ -173,17 +173,74 @@
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
 - I am learning to reliably deliver successful projects by applying good practices when leading teams.
 - I am focussed on helping my peers grow, sharing what I have learned and encouraging others to do the same.
-- I facilitate ongoing, net-positive and productive communication in the team.
+- I facilitate ongoing, net-positive and productive communication in my team.
 - I participate and have a strong voice in the hiring of new team members.
+- I understand that I cannot solve every problem for my team by doing it myself. I am learning to trust and delegate tasks to my team.
 
 #### I am emerging as a driver for technical and business opportunities.
 
-- I am looking for new technologies and practices that maybe able to assist our team to acheive their goals and improve how we work.
+- I am looking for new technologies and practices that maybe able to assist our team to achieve their goals and improve how we work.
 - I am comfortable with building a product vision with an Engineering Manager based on the business needs, regardless of whether this involves technology or otherwise.
-- I know we need to be able to measure performance and progress in the team. I am constantly looking for ways to understand what we have achieved.
+- I know we need to be able to measure performance and progress in my team. I am constantly looking for ways to understand what we have achieved.
 
 #### I am investing back into Loan Market.
 
 - I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+
+---
+
+## Cloud Engineering Manager
+> I am trusted to autonomously lead people through any engagement with a proven record of delivering pitches from inception to their successful completion.
+>
+> 🔀 The sub-branches of Engineering Manager are:
+>
+> - Architect: Engineering and software architecture excellence.
+> - Business Analysis: Business solution design and strategy.
+> - Leadership: Problem solving and operational excellence.
+
+#### I am a deeply respected leader of people.
+
+- My influence and guidance positively affects teams and individuals both inside and outside of Loan Market.
+- I use my soft skills to bring out the best in both our people and our customers and encourage them to grow.
+- I'm not afraid to have difficult conversations when needed, and do so with tact and care.
+- I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
+- I know when and how to apply different coaching and mentoring techniques, understanding the maturity level of those I'm helping.
+- I am able to provide perspective for those I'm serving by reminding them of the big picture when they get stuck in the details and day to day of solving problems.
+
+#### I know the pressures of being a key leader.
+
+- I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
+- I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
+- I understand the bigger picture of how software development, compliance, marketing and other business departments all interrelate and influence the success of a business.
+- I know how to adjust my communications style based on my audience, from support to engineer to sales and marketing to C-level executives and business owners.
+- I know the impact of internal politics in organisations and how it can alter decision making processes. I work to minimise any such activities and proactively display a culture of ownership and inclusion.
+- I know what is required to bring about organisational change, and when enough trust has been established to broach such topics with others.
+
+#### I am a servant leader for my team.
+
+- I am prioritising the needs of my team members above my own, knowing that their success is our success.
+- I am an outspoken advocate of my team. They can trust me to be the first line of defence.
+- I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our peers and customers.
+- I actively track the progress of our team, keeping the goals of our projects and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
+- I have a track record of delivering successful projects by applying good practices when leading teams.
+- I don't mind making the coffee or picking up the pizza for everyone in my team.
+- I am focussed on helping my team grow, sharing what I have learned and encouraging others to do the same.
+- I actively delegate tasks to my team providing them autonomy to complete the task. I trust my team to complete tasks and seek help when needed.
+- I understand culture is held in our people. I am proactive in hiring for good culture fit and attitude as much as skills.
+- My validation and success comes from the cumulative successes of my team.
+
+#### I am a driver for technical and business opportunities.
+
+- I am looking for new opportunities and thinking beyond what we are creating today.
+- I don't rely on the Product Manager to define the roadmap and set objectives. I am constantly asking questions and looking for ways to improve our intentions.
+- I listen to my team but advocate for more. I look to change negative attitudes into positive plans of action.
+
+#### I am investing back into Loan Market.
+
+- I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
+- I am helping steer the public and private conversations within the business towards positive and productive outcomes.
+- I represent the interest of my team and the technology group as a whole to the wider business.
+- I am involved in initiatives beyond developing software.
+- I take time to reflect on our identity, our people and our culture, and the way in which we work. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
