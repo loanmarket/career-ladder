@@ -48,7 +48,7 @@ Relevant experience:
 - I am able to design cloud solutions based on the requirements.
 - I am able to code and integrate quality solutions in the cloud.
 - I am able to support and suggest improvements for solutions to ensure they meet business requirements and are resilient.
-- I understand and develop solutions that adhere compliance and security standards.
+- I understand and develop solutions that adhere to compliance and security standards.
 - I know how to stand up a build and delivery pipeline.
 
 #### I am recognised by my desire to learn and my motivation to improve.
@@ -67,7 +67,7 @@ Relevant experience:
 - I avoid going dark and I know when to call out for help.
 - I communicate professionally and keep stake holders engaged at all times.
 - I am well aware of all processes of the team and diligently follow them.
-- Every venture has mundane tasks and I work happily and diligently through them.
+- I understand every venture has mundane tasks and I work happily and diligently through them.
 - My contributions to team discussions are net-positive, informative and helpful.
 - I keep my cool during high pressure situations and can still think logically when I know our customers are effected.
 - I am comfortable enough to provide a differing opinion and humble enough to know when other opinions are better.
