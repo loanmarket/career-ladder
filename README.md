@@ -1,4 +1,4 @@
-# Loan Market Group Technology Ladder
+# Loan Market Group Technology Career Ladder
 
 This repository describes the technical roles within the group.
 
