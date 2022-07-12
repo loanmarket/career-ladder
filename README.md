@@ -16,7 +16,66 @@ It's the anchor point used through all of our feedback and promotion cycles. Thi
 
 ## Career Ladder
 
-![Ladder Diagram](ladder.jpg)
+```mermaid
+flowchart BT
+    TD[Technical Director]
+    PA[Principal Architect]
+    EM[Engineering Manager]
+    CEM[Cloud Engineering Manager]
+    QAM[QA/QE Manager]
+    PE[Principal Engineer]
+    LE[Lead Engineer]
+    SE[Senior Engineer]
+    E[Engineer]
+    GE[Graduate Engineer]
+    PCE[Principal Cloud Engineer]
+    LCE[Lead Cloud Engineer]
+    SCE[Senior Cloud Engineer]
+    CE[Cloud Engineer]
+    GCE[Graduate Cloud Engineer]
+    PAE[Principal Automation Engineer]
+    LQE[Lead QA/QE Engineer]
+    SQE[Senior QA/QE Engineer]
+    QE[QA/QE Engineer]
+    GQE[Graduate QA/QE Engineer]
+    
+    PA --> TD
+    EM --> TD
+    CEM --> TD
+    QAM --> TD
+    PE .-> PA
+    LE --> EM
+    PCE .-> PA
+    LCE --> CEM
+    LQE .-> QAM
+    subgraph sube[Engineering]
+        subgraph subsl[Stream Lead Capable Positions]
+            SE .-> PE
+            SE .-> LE
+        end
+        E .-> SE
+        GE .-> E
+    end
+    subgraph subc[Cloud]
+        SCE .-> PCE
+        SCE .-> LCE
+        CE .-> SCE
+        GCE .-> CE
+    end
+    subgraph subq[QA/QE]
+        SQE .-> PAE
+        SQE .-> LQE
+        QE .-> SQE
+        GQE .-> QE
+    end
+    PAE .-> subc
+    
+    subgraph Key
+        direction LR
+        A[ ] --> B[Reports To]
+        C[ ] .-> D[Career Pathway]
+    end
+```
 
 ## Contributions
 
