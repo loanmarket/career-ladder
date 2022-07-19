@@ -7,7 +7,7 @@
 - I am learning how to segment tasks into deliverable units of work.
 - I am learning about security concerns related to cloud computing and actively seeking how to mitigate any risks.
 - I am learning to be competent with the tools and core building blocks used by our team.
-- I am learning how to write scripts to support the deployment of solutions provided by the development team
+- I am learning how to write scripts to support the deployment of solutions provided by the development team.
 - I am learning the importance of solution availability and what this means to our end customers.
 - I am learning how to architect quality solutions using available cloud resources.
 
