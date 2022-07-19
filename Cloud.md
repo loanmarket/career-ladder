@@ -121,7 +121,7 @@
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
-- I am proficient at leading software projects using agreed practices.
+- I am proficient at leading projects using agreed practices.
 - I can confidently and charismatically pitch ideas and influence my teams decisions.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
