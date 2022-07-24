@@ -142,6 +142,7 @@
 
 - I have a wide understanding of cloud development technology and practices, backed by extensive practical experience.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, performance, concurrency and maintainability into consideration.
+- I understand how to use metrics / logs to make the best decisions for the product and I always refer to these when planning future work and making decisions. I am constantly looking for ways to better understand problems with the system by expanding the metrics and logging footprint.
 - I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
 - I use my skills, speed and knowledge to help my team be very productive.
 
@@ -154,7 +155,7 @@
 
 ---
 
-## Lead Engineer
+## Lead Cloud Engineer
 > I am a well-rounded developer, architect, problem solver and leader of people. I am trusted to lead teams to deliver a small number of pitches from inception to their successful completion.
 >
 > 🔀 This role is the start of the Management track.
@@ -229,8 +230,6 @@
 - I am focussed on helping my team grow, sharing what I have learned and encouraging others to do the same.
 - I actively delegate tasks to my team providing them autonomy to complete the task. I trust my team to complete tasks and seek help when needed.
 - I understand culture is held in our people. I am proactive in hiring for good culture fit and attitude as much as skills.
-- My validation and success comes from the cumulative successes of my team.
-
 #### I am a driver for technical and business opportunities.
 
 - I am looking for new opportunities and thinking beyond what we are creating today.
