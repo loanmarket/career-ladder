@@ -234,7 +234,7 @@
 #### I am a driver for technical and business opportunities.
 
 - I am looking for new opportunities and thinking beyond what we are creating today.
-- I don't rely on the Product Manager to define the roadmap and set objectives. I am constantly asking questions and looking for ways to improve our intentions.
+- I don't rely on the Product and Engineering Managers to define the roadmap and set objectives. I am constantly asking questions and looking for ways to improve our intentions.
 - I listen to my team but advocate for more. I look to change negative attitudes into positive plans of action.
 
 #### I am investing back into Loan Market.
