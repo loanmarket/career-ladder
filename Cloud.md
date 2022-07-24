@@ -242,5 +242,5 @@
 - I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
 - I am helping steer the public and private conversations within the business towards positive and productive outcomes.
 - I represent the interest of my team and the technology group as a whole to the wider business.
-- I am involved in initiatives beyond developing software.
+- I am involved in initiatives beyond cloud engineering.
 - I take time to reflect on our identity, our people and our culture, and the way in which we work. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
