@@ -180,7 +180,7 @@
 #### I am emerging as a driver for technical and business opportunities.
 
 - I am looking for new technologies and practices that maybe able to assist our team to achieve their goals and improve how we work.
-- I am comfortable with building a product vision with an Engineering Manager based on the business needs, regardless of whether this involves technology or otherwise.
+- I am comfortable with building a product vision with a Product or Engineering Manager based on the business needs, regardless of whether this involves technology or otherwise.
 - I know we need to be able to measure performance and progress in my team. I am constantly looking for ways to understand what we have achieved.
 
 #### I am investing back into Loan Market.
