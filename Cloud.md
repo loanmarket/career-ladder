@@ -195,11 +195,6 @@
 ## Cloud Engineering Manager
 > I am trusted to autonomously lead people through any engagement with a proven record of delivering pitches from inception to their successful completion.
 >
-> 🔀 The sub-branches of Engineering Manager are:
->
-> - Architect: Engineering and software architecture excellence.
-> - Business Analysis: Business solution design and strategy.
-> - Leadership: Problem solving and operational excellence.
 
 #### I am a deeply respected leader of people.
 
