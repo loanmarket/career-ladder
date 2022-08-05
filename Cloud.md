@@ -224,6 +224,7 @@
 - I am focussed on helping my team grow, sharing what I have learned and encouraging others to do the same.
 - I actively delegate tasks to my team providing them autonomy to complete the task. I trust my team to complete tasks and seek help when needed.
 - I understand culture is held in our people. I am proactive in hiring for good culture fit and attitude as much as skills.
+
 #### I am a driver for technical and business opportunities.
 
 - I am looking for new opportunities and thinking beyond what we are creating today.
