@@ -194,7 +194,6 @@
 
 ## Cloud Engineering Manager
 > I am trusted to autonomously lead people through any engagement with a proven record of delivering pitches from inception to their successful completion.
->
 
 #### I am a deeply respected leader of people.
 
