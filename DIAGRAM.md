@@ -3,7 +3,7 @@ flowchart BT
   subgraph band_td [ ]
     direction LR
     
-    td[Technical Director]
+    td[Head of Engineering]
 
     subgraph legend [Where]
       direction LR
@@ -20,6 +20,7 @@ flowchart BT
     em[Engineering Manager]
     cem[Cloud Engineering Manager]
     qam[QA/QE Manager]
+    eol[Engineering Operations Lead]
   end
 
   subgraph band_teams [ ]
@@ -78,6 +79,7 @@ flowchart BT
 
   pae -.-> report_cem
   le -.-> em
+  le -.-> eol
   lce -.-> cem
   lqe -.-> qam
 
@@ -85,6 +87,7 @@ flowchart BT
   report_cem --> cem
   report_qam --> qam
   pe -..-> pa
+  pe -.-> eol
   pce -..-> pa
 
   pa --> td
