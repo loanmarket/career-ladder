@@ -221,7 +221,7 @@
 - I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
 - I understand the bigger picture of how software development, compliance, marketing and other business departments all interrelate and influence the success of a business.
 - I know how to adjust my communications style based on my audience, from support to engineer to sales and marketing to C-level executives and business owners.
-- I know the impact of internal politics in organisations and how it can alter decision making processes. I work to minimise any such activities and proactively display a culture of 	ownership and inclusion.
+- I know the impact of internal politics in organisations and how it can alter decision making processes. I work to minimise any such activities and proactively display a culture of ownership and inclusion.
 - I am a driver for technical and business opportunities
 - I am looking for new opportunities and thinking beyond what we are creating today.
 - I don't rely on the Product Manager to define direction. I am constantly asking questions and looking for ways to improve our intentions.
