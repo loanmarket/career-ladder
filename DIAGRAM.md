@@ -18,7 +18,7 @@ flowchart BT
 
     pa[Principal Architect]
     em[Engineering Manager]
-    cem[Head of Engineering - Cloud & Infrastructure]
+    cem[Head of cloud and security engineering]
     qam[QA/QE Manager]
     eol[Engineering Operations Lead]
   end
