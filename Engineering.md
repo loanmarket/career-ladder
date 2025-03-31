@@ -189,6 +189,43 @@
 - I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+---
+
+## Engineering Operations Lead
+> I am a well-rounded developer, architect and problem solver. I am trusted to set processes and practices that help engineers support our platforms established value while balancing engineering ideals with external pressures.
+
+#### I am trusted to lead a team and help the team manage competing priorities
+- I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
+- I am responsible for my team and the relationship with our stakeholders.
+- I can confidently step outside my comfort zone and adapt quickly to new team situations.
+- I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
+- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
+- I am proficient at leading software projects using agreed practices.
+- I can confidently and charismatically pitch ideas and influence my team's decisions.
+- I am an excellent communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
+- I recognise problems with my team and proactively engage with relevant leaders as needed to prevent or resolve them quickly.
+
+#### I guide engineering teams towards maintaining the established value of our platforms.
+- I am the owner of the processes designed to support established features and a key driver for constant improvement and collaboration across teams. 
+- I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
+- I am very comfortable performing business analysis work. I often play the role of Product understanding the long term vision and making engineering choices that align with that vision.
+
+#### I am adaptable
+- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
+- I can adapt to a given situation and can learn and implement new technologies with very short notice.
+- I seek out relevant SME’s to expand understanding and expedite outcomes.
+- I know that my knowledge will soon be obsolete so I'm actively investing in other areas or technologies into which I can grow.
+
+#### I know the pressures of being a key leader.
+- I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
+- I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
+- I understand the bigger picture of how software development, compliance, marketing and other business departments all interrelate and influence the success of a business.
+- I know how to adjust my communications style based on my audience, from support to engineer to sales and marketing to C-level executives and business owners.
+- I know the impact of internal politics in organisations and how it can alter decision making processes. I work to minimise any such activities and proactively display a culture of ownership and inclusion.
+- I am a driver for technical and business opportunities
+- I am looking for new opportunities and thinking beyond what we are creating today.
+- I don't rely on the Product Manager to define direction. I am constantly asking questions and looking for ways to improve our intentions.
+- I listen to the team but advocate for more. I look to change negative attitudes into positive plans of action.
 
 ---
 
